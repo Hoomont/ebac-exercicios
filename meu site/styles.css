@@ -1,0 +1,49 @@
+.container, .container h1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+p {
+    padding-bottom: 20px;
+}
+
+h1, p {
+    font-family: 'Roboto Mono', monospace;
+}
+
+header, header h1 {
+    padding-left: 120px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(163, 130, 87);
+    text-align: left;
+    font-family: 'Roboto Mono', monospace;
+    margin: 0px;
+}
+
+.container img {
+    max-width: 1000px;
+    max-height: 1000px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+    background-color: bisque;
+}
+
+.skyline img {
+    padding-bottom: 40px;
+}
+
+#submit {
+    background-color: rgb(163, 130, 87);
+    color: white;
+    padding: 10px;
+}
+
+.opinion {
+    text-align: center;
+}
